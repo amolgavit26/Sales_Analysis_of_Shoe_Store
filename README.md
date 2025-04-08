@@ -39,4 +39,4 @@ This project presents an interactive **Sales Analysis Dashboard** for a shoe sto
 - Interactive Charts (Bar, Donut, Slicers)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](./Screenshot.png)
+![Dashboard Screenshot](./DashBoard.png)
